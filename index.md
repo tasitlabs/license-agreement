@@ -7,17 +7,17 @@ _Last updated July 9, 2020_
 If Tasit Labs, Inc. are viewing these terms online, Tasit Labs, Inc. can click on the below links to jump to the relevant section:
 
 1. Navigating these Terms (the current section)
-2. Acknowledgement(#2-acknowledgement)
-3. Scope of License(#3-scope-of-license)
-4. Maintenance and Support(#4-maintenance-and-support)
-5. Warranty(#5-warranty)
-6. Product Claims(#6-product-claims)
-7. Intellectual Property Rights(#7-intellectual-property-rights)
-8. Legal Compliance(#8-legal-compliance)
-9. Developer Name and Address(#9-developer-name-and-address)
-10. Third Party Terms of Agreement(#10-third-party-terms-of-agreement)
-11. Third Party Beneficiary(#11-third-party-beneficiary)
-12. Contact information(#12-contact-information)
+2. [Acknowledgement](#2-acknowledgement)
+3. [Scope of License](#3-scope-of-license)
+4. [Maintenance and Support](#4-maintenance-and-support)
+5. [Warranty](#5-warranty)
+6. [Product Claims](#6-product-claims)
+7. [Intellectual Property Rights](#7-intellectual-property-rights)
+8. [Legal Compliance](#8-legal-compliance)
+9. [Developer Name and Address](#9-developer-name-and-address)
+10. [Third Party Terms of Agreement](#10-third-party-terms-of-agreement)
+11. [Third Party Beneficiary](#11-third-party-beneficiary)
+12. [Contact information](#12-contact-information)
 
 ### 2. Acknowledgement
 Tasit Labs, Inc. and the End-User acknowledge that this license agreement is concluded between Tasit Labs, Inc. and the End-User only, and not with Apple, and Tasit Labs, Inc., not Apple, are solely responsible for the Licensed Application and the content thereof. This license agreement does not provide for usage rules for Licensed Applications that are in conflict with, the App Store Terms of Service as of the Effective Date (which Tasit Labs, Inc. acknowledge Tasit Labs, Inc. have had the opportunity to review).
